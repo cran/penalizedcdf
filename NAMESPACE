@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(plot.matrix)
+importFrom("graphics", "matplot")
+importFrom("stats", "dnorm", "optimize", "pnorm")

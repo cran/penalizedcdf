@@ -1,0 +1,17 @@
+d6bcf058d2ea68624d38b5c27c3349c8 *DESCRIPTION
+bb78e452f93ad24a4e4b53626e569060 *NAMESPACE
+63a5fdcf0d64fa995cf172ff87813fc8 *R/BIC.calc.R
+b97e454730422790cf3de3fd8239c79e *R/cdfPen.R
+fde012155e6c50f5671d589218d520d4 *R/cdfPen.fit.R
+d77c764a5821a8d54d3197ed416a20e3 *R/check_KKT.R
+a5ff8b793bbf286a31fce922eae62db8 *R/lla.R
+30d3e21e8ee8f49d16ae3af2458037d0 *R/plot.r
+cb28a273d61ea64cae2eb21809fcbaa3 *man/BIC.cdfpen.Rd
+5607a62e92874d1e6b917b113906c9fd *man/BIC_calc.Rd
+857575483018df7f65a66dcafb888f74 *man/Check_KKT.Rd
+3b031b92df4fc0efafaab8e96670ca18 *man/S.Rd
+d55270eb38c15a52dbb12158740f4a45 *man/cdfPen.Rd
+989c6e76f974ce3d228d8adf5376e5ad *man/cdfPen.fit.Rd
+692b8be2dedfcf0b27cacdb6dc3d803c *man/lla.Rd
+02efd15f2b380b4969d2c450967b29ce *man/plot.cdfpen.Rd
+7ef6cda47a5ac490a0c151b2f209efde *man/plot_path.Rd
